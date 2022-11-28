@@ -1,4 +1,5 @@
 #!/usr/bin/python3
 number = 98
-f"{number} Battery street"
+integer = f"{number} Battery street"
+print(integer)
 
