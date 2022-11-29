@@ -1,4 +1,4 @@
-#!/usr/bin/bash/python3
+#!/usr/bin/python3
 def uppercase(str):
     """prints a string in uppercase followed by a new line."""
     for i in str:
