@@ -4,3 +4,4 @@ def add(a, b):
     c = a + b
     print("{} + {} = {}".format(a, b, c), end="")
 import add from add_0
+add(1, 2)
