@@ -1,7 +1,13 @@
 #!/usr/bin/python3
 def add (a, b):
-    """ Adds integers at variables a and b"""
-    a, b = 1, 2
+    """My Addition function
+
+    Args:
+        a: first integer
+        b: second integer
+
+    Returns:
+        The return value. a + b
+    """
+    return (a + b)
     c = a + b
-    print("{} + {} = {}".format(a, b, c), end="")
-    print("")
