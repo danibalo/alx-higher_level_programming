@@ -1,4 +1,5 @@
 0x01. Python - if/else, loops, functions
+
 0. Positive anything is better than negative nothing
 
 This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print whether the number stored in the variable number is positive or negative.
@@ -27,5 +28,6 @@ Write a program that prints the ASCII alphabet, in lowercase, not followed by a 
 	You can only use one print function with string format
 	You can only use one loop in your code
 	You are not allowed to store characters in a variable
-	You are not allowed to import any module
+	You are not allowed to import any module.
+
 
