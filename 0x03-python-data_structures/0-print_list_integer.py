@@ -2,4 +2,4 @@
 def print_list_integer(my_list=[]):
     """" Prints list of integers """
     for i in range(len(my_list)):
-        print("{}".format(int(my_list[i])))
+        print("{:d}".format(int(my_list[i])))
