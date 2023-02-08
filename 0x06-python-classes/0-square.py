@@ -1,5 +1,5 @@
 #!/usr/bin/python3
- #By Daniel Balo Tarafa
+# By Daniel Balo Tarafa
 """Defines Square"""
 
 
