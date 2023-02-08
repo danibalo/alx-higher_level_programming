@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 # 0.square.py By Daniel Balo Tarafa
+""" A module that defines square"""
+
+
 class Square:
     """Class of Square"""
 
