@@ -2,8 +2,9 @@
 # 0.square.py By Daniel Balo Tarafa
 class Square:
     """Class of Square"""
+
     def __init__(self, size=0):
-        """Initializing the square
+        """Initializing the square class
         Args:
             size: the size of square defined
         Raises:
@@ -11,6 +12,7 @@ class Square:
             ValueError: if size is less or equal to zero
 
         """
+
         if not isinstance(size, int):
             raise TypeError("size must be an integer")
         if size < 0:
