@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 0-square.py by Ehoneah Obed
+# 4-square.py by Daniel Balo Tarafa
 """A module that defines a square """
 
 
@@ -9,7 +9,7 @@ class Square:
     def __init__(self, size=0):
         """Initializing this square class
         Args:
-            size: represnets the size of the square defined
+            size: it is the size of the square defined
         Raises:
             TypeError: if size is not integer
             ValueError: if size is less than zero
